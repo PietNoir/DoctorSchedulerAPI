@@ -352,3 +352,4 @@ C:\Users\Pieter\source\DoctorSchedulerAPI\obj\Debug\net8.0\refint\DoctorSchedule
 C:\Users\Pieter\source\DoctorSchedulerAPI\obj\Debug\net8.0\DoctorSchedulerAPI.pdb
 C:\Users\Pieter\source\DoctorSchedulerAPI\obj\Debug\net8.0\DoctorSchedulerAPI.genruntimeconfig.cache
 C:\Users\Pieter\source\DoctorSchedulerAPI\obj\Debug\net8.0\ref\DoctorSchedulerAPI.dll
+C:\Users\Pieter\source\DoctorSchedulerAPI\obj\Debug\net8.0\DoctorSchedulerAPI.sourcelink.json
