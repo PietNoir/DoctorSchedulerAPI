@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OhmacvikqSZPPHuwx18A6zdEiJvut++jOBzbEZxBhDE=",
+  "Source": "DoctorSchedulerAPI",
+  "BasePath": "_content/DoctorSchedulerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
